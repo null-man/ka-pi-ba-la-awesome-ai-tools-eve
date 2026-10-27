@@ -2466,6 +2466,19 @@
 <td>短视频内容运营与直播电商数据分析平台</td>
 <td><a href="https://hao.withai.homes/sites/chanmama-2976/"><kbd>了解更多</kbd></a></td>
 </tr>
+<tr>
+<td><a href="https://kdafirestarterai.dev">KDA Firestarter AI Dance</a></td>
+<td>独立非官方 AI：一张照片→13s 480p 21:9 独舞视频（Paid $7.99 起；与 Riot/K/DA 无关）</td>
+</tr>
+<tr>
+<td><a href="https://a2oliteai.org">A2O LITE NEON AI Dance</a></td>
+<td>独立 AI：两张照片→15s 霓虹双人舞 + 参考配乐（Paid $7.99 起）</td>
+</tr>
+<tr>
+<td><a href="https://dimedimebabyai.dev">dime dime baby ai</a></td>
+<td>独立 AI：一张照片→约5s 9:16 AI 舞蹈（Quince Classic/Party Groove；Paid $7.99 起）</td>
+</tr>
+
 </tbody>
 </table>
 
