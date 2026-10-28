@@ -2476,6 +2476,9 @@
 </tr>
 <tr>
 <td><a href="https://dimedimebabyai.dev">dime dime baby ai</a></td>
+- <a href="https://promptimage.cloud" target="_blank">PromptImage</a> - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
+- <a href="https://teslawraps.design" target="_blank">TeslaWraps</a> - Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credits. Freemium
+- <a href="https://grokvideogenerator.dev" target="_blank">GrokVideo Studio</a> - Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official xAI or X product
 <td>独立 AI：一张照片→约5s 9:16 AI 舞蹈（Quince Classic/Party Groove；Paid $7.99 起）</td>
 </tr>
 
